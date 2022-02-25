@@ -1,3 +1,5 @@
 hello 
 
-this file belongs to java class
+this file belongs to java clas
+
+this is java class
